@@ -1,5 +1,1 @@
-matplotlib
-pyplot
-numpy
-streamlit
-pandas
+matplotlib==
